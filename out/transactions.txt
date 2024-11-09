@@ -1,0 +1,2 @@
+
+Operação: Entrada - Valor: 500.00 - Descrição: Teste
